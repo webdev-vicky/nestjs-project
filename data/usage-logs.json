@@ -1,0 +1,45 @@
+[
+  {
+    "userId": 1,
+    "service": "api-calls",
+    "quantity": 1000,
+    "timestamp": "2024-01-15T10:00:00Z"
+  },
+  {
+    "userId": 1,
+    "service": "storage",
+    "quantity": 50,
+    "timestamp": "2024-01-15T10:15:00Z"
+  },
+  {
+    "userId": 2,
+    "service": "api-calls",
+    "quantity": 500,
+    "timestamp": "2024-01-15T11:00:00Z"
+  },
+  {
+    "userId": 2,
+    "service": "bandwidth",
+    "quantity": 200,
+    "timestamp": "2024-01-15T11:30:00Z"
+  },
+  {
+    "userId": 3,
+    "service": "compute",
+    "quantity": 10,
+    "timestamp": "2024-01-15T12:00:00Z"
+  },
+  {
+    "userId": 1,
+    "service": "api-calls",
+    "quantity": 2000,
+    "timestamp": "2024-01-15T13:00:00Z"
+  },
+  {
+    "userId": 3,
+    "service": "storage",
+    "quantity": 100,
+    "timestamp": "2024-01-15T14:00:00Z"
+  }
+]
+
